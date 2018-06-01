@@ -1,0 +1,2 @@
+# open_manipulator_with_tb3_msgs-release
+Bloom release repository for open_manipulator_with_tb3_msgs
